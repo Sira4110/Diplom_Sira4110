@@ -18,8 +18,8 @@
 
 ## 🛠️ Технології
 
-- HTML5
-- CSS3
+- HTML5  
+- CSS3  
 - JavaScript
 
 ---
@@ -38,18 +38,9 @@
 
 ---
 
-## 📄 Ліцензія
-
-Цей проєкт має ліцензію [MIT](LICENSE).  
-Ви можете вільно використовувати, змінювати та поширювати цей код, але з обов’язковим зазначенням авторства.
-
----
-
 ## 🗣️ English Summary
 
 **Crypto Monocle** is a web-based tool that lets you encrypt and decrypt text messages using simple algorithms, directly in your browser.
 
 - [Live Demo](https://sira4110.github.io/Diplom_Sira4110/)
 - [Source Code](https://github.com/Sira4110/Diplom_Sira4110)
-
-Licensed under the [MIT License](LICENSE).
