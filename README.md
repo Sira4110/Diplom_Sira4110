@@ -2,7 +2,7 @@
 
 **Crypto Monocle** — це вебдодаток, що дозволяє шифрувати та дешифрувати повідомлення з використанням простих методів шифрування прямо у браузері.
 
-🔗 [Онлайн-версія (GitHub Pages)](https://sira4110.github.io/Diplom/)  
+🔗 [Онлайн-версія (GitHub Pages)](https://sira4110.github.io/Diplom_Sira4110/)  
 📁 [Репозиторій на GitHub](https://github.com/Sira4110/Diplom_Sira4110)
 
 ---
@@ -26,7 +26,7 @@
 
 ## 🚀 Як користуватись
 
-1. Відкрий вебдодаток за посиланням [Crypto Monocle](https://sira4110.github.io/Diplom/)
+1. Відкрий вебдодаток за посиланням [Crypto Monocle](https://sira4110.github.io/Diplom_Sira4110/)
 2. Введи текст, який потрібно зашифрувати або розшифрувати
 3. Обери дію — `Зашифрувати` або `Розшифрувати`
 
@@ -49,7 +49,7 @@
 
 **Crypto Monocle** is a web-based tool that lets you encrypt and decrypt text messages using simple algorithms, directly in your browser.
 
-- [Live Demo](https://sira4110.github.io/Diplom/)
+- [Live Demo](https://sira4110.github.io/Diplom_Sira4110/)
 - [Source Code](https://github.com/Sira4110/Diplom_Sira4110)
 
 Licensed under the [MIT License](LICENSE).
